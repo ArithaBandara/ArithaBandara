@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm ArithaBandara (GitHub Username)
+# 👋 Hi there! I'm ArithaBandara
 
 👀 **I’m interested in**:
 - Linux and Linux servers
