@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm ArithaBandara
+# 👋 Hi there! I'm Aritha Bandara
 
 👀 **I’m interested in**:
 - Linux and Linux servers
